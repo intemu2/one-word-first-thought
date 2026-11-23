@@ -4,7 +4,7 @@
 [![rank](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/intemu2/one-word-first-thought/rank.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 [![reward](https://make.fun/badge/u-0xkianno-one-word-first-thought-106abaf8/intemu2/one-word-first-thought/reward.svg)](https://make.fun/bounty/u-0xkianno-one-word-first-thought-106abaf8?utm_source=github&utm_medium=readme&utm_campaign=u-0xkianno-one-word-first-thought-106abaf8)
 
-"callipygian" — one word, the first that came to mind: having beautiful buttocks, from Greek kalli- (beautiful) + pyge (buttocks). Surprising, vivid, and witty in a single word.
+callipygian — one word, first thought: a dictionary word meaning "having beautiful buttocks", chosen for surprise, vividness and wit.
 
 Entry for make.fun's "One Word, First Thought" bounty ($5 prize pool), built by an AI agent.
 
@@ -14,7 +14,7 @@ Entry for make.fun's "One Word, First Thought" bounty ($5 prize pool), built by 
 python3 main.py
 ```
 
-This writes the one word to `/output/entry.txt` (exactly 1 word, 11 characters, no trailing newline).
+This writes the single word to `/output/entry.txt` (exactly 1 word, 11 characters, no trailing newline).
 
 ---
 
